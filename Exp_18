@@ -1,6 +1,6 @@
-/*Name-Purvansha Gehlod
-PRN-220701230888
-Exp-18*/
+/*Name: Sanskriti Jha
+PRN: 22070123101
+Exp 18*/
 #define ERROR -9999
 #define MAXSIZE 10
 #include<iostream>
@@ -67,9 +67,8 @@ int main()
 /*Output
 Stack is empty
 */
-/*Name-Purvansha Gehlod
-PRN-22070123088
-Exp_18
+/*
+Exp 18
 Stack implementation using array.
 menu options - i) Push ii) Pop iii) Display iv) exit
 */
